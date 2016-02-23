@@ -1,0 +1,44 @@
+METRES 27
+
+septenarius (seven-soot)¹; the Greek tetrameter acatalectic
+(four-measure complete) the Latin octonarius (eight-foot).
+
+(c) The metres thus borrowed by Plautus and Terence arc
+principally iambic and trochaic, In rcckoning thc metrical
+value of a foot, each short syllable counts as one mora or
+length-unit, each long syllable normally as two: strictly speak-
+ing, therefore, the only exact equivalent for the iambus (ψ -) or
+the trochee (- υ) is the tribrach (υ o 0)ss But in the verse os
+Latin Comedy, as in all natural non-quantitative verse, a
+spondee pronounced rapidly may take the value merely of an
+iambus or trochee, the unstressed syllable not bearing ictus
+seeming to count as a single mora only. For this reason the
+spondee (- -) and its metrical equivalents‚ the dactyl (- ψ υ),
+anapaest (υ ψ -), and proceleusmatic (o υ υ o), are, under
+certain restrictions, admitted by Plautus and Terence as sub-
+stitutes sor iambi and trochees in those feet in which they
+allow substitution.
+
+(d) In Greek poetry the trimeter had three, the tetrameter
+four, strong ictas or main verse-beats, one in each of the odd
+feet (and so one only in each dipody) ; there was a weaker
+ictus in each of the even feet. The incidence of ictus in Latin
+iambic and trochaic verses is generally regarded as following
+the Greek rule: though it has also been conjectured that,
+as Plautus and Terence disregarded the dipodic arrangement,
+such verses, as written by thern, bore a strong ictus in each
+foot. If the first of these two opinions is accepted as correct,
+the theory that strong ictus seldom conflicts with accent
+becomes almost self-evident; but the question is here lest
+open,³ except that (as is reasonable) an ictus falling on the last
+syllable of a verse is regarded as distinctly weak.
+
+¹ Strictly‚ seven feet and a hals.
+
+² Hence nominally a tribrach alone can be substituted for a trochee in
+the last foot of a trochaic octonarius: see below, ΙΙ. E. b. ii.
+
+³ Accordingly in this edition, wherever the scansion os a line is symbolized
+(as frequently in this section and the next of the Introduction, and in tlu-
+Notes), ictus is marked in each soot for the sake of clearness
+
